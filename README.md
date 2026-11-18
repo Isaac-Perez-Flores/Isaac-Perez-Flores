@@ -15,4 +15,4 @@
 - ⚡ Fun fact: ...
 <img style="width:25; ;"src="Router-Emoticon-07.png">
 -->
-(Router-Emoticon-07.png)
+(![alt text(Router-emoticon-07.png))
