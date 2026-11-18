@@ -15,4 +15,3 @@
 - ⚡ Fun fact: ...
 <img src="Router-Emoticon-07.png"
 -->
-<img src="Router-Emoticon-07.png"
