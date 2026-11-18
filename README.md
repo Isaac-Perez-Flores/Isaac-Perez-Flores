@@ -15,4 +15,4 @@
 - ⚡ Fun fact: ...
 <img style="width:25; ;"src="Router-Emoticon-07.png">
 -->
-<img style="width:25; ;"src="Router-Emoticon-07.png">
+<img style="width:25; ;"src="[Router-Emoticon-07.png](https://github.com/Isaac-Perez-Flores/Isaac-Perez-Flores/blob/main/Router-Emoticon-07.png)">
