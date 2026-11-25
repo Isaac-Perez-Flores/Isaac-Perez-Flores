@@ -15,4 +15,3 @@
 - ⚡ Fun fact: ...
 ![Emoticono de router enfadado](../Router-Emoticon-07.png)
 -->
-![Emoticono de router enfadado](../Router-Emoticon-07.png)
